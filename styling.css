@@ -1,7 +1,25 @@
 body{
     background-color: grey;
+    border: solid 10px azure;
+    
 
 }
 .heading{
+    color: azure;
+    text-align: center;
+}
+
+.content{
+    font-size: large;
+    text-align: center;
+    color: azure;
+}
+.form{
+    
+   text-align: center;
+   margin:0 auto;
+   width: 500px;
+   height:200px;
+
 
 }
